@@ -1,7 +1,6 @@
 # 🪄 Harry Potter İksir Tamamlama Oyunu
 
 
----
 
 ## 🧙‍♂️ Oyun Hakkında
 
@@ -9,7 +8,7 @@ Harry Potter İksir Tamamlama, Javascript ve HTML5 Canvas ile geliştirilmiş bi
 Oyunda bir büyücülük öğrencisi olarak Hogwarts'ta dolaşırken çeşitli malzemeler toplayarak bir iksir hazırlamanız gerekmektedir.
 
 
----
+
 ## 🧭 Oyun Mekanikleri
 
 Oyuncu, WASD tuşlarıyla sınırlı bir haritada serbestçe hareket ettirilebilir. Harita üzerinde rastgele konumlanmış malzemeler yer alır. Oyuncunun görevi, bu malzemeleri toplayarak kazana ulaştırmaktır.
@@ -33,7 +32,7 @@ Snape'e yakalanıp tüm canlarını kaybederse oyunu kaybeder.
 Her iki durumda da ekrana, tekrar oynamak için bir pencere çıkar.
 
 
----
+
 
 ## 🎯 Kontroller
 
@@ -44,21 +43,21 @@ Her iki durumda da ekrana, tekrar oynamak için bir pencere çıkar.
 - Q --- McGonagall'dan iksir tarifini al
 - E --- Kazana malzeme ekle
 
----
+
 
 ## Oyun Başlangıç Ekranı
 ![alt text](image.png)
 
----
+
 ## Kazana Ekleme Ekranı
 
 ![alt text](image-2.png)
 
----
+
 ## Snape'den kaçış ekranı
 ![alt text](image-4.png)
 
----
+
 
 
 
@@ -80,7 +79,7 @@ Her iki durumda da ekrana, tekrar oynamak için bir pencere çıkar.
 [kurbaga](https://images.app.goo.gl/RU2LZLktCw6MsX8A6), [mantar](https://pin.it/2xleaMEmn), [cin](https://pin.it/5h8I2QPBI), [ot](https://pin.it/1FzBAejC0), [adamotu](https://images.app.goo.gl/PRNgpzSKiXN89qjA8)
 
 
----
+
 
 ### Referans aldığım oyun adı ve url'i :  
 https://liberato.itch.io/purrfect-disaster 
