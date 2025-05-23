@@ -46,16 +46,16 @@ Her iki durumda da ekrana, tekrar oynamak için bir pencere çıkar.
 
 
 ## Oyun Başlangıç Ekranı
-![alt text](https://github.com/sdnrelms/potion-completion-game/blob/main/game_img/image1.png)
+![baslangic_ekrani](https://github.com/sdnrelms/potion-completion-game/blob/main/game_img/image1.png)
 
 
 ## Kazana Ekleme Ekranı
 
-![alt text]([image-2.png](https://github.com/sdnrelms/potion-completion-game/blob/main/game_img/image2.png))
+![kazana_ekleme](https://github.com/sdnrelms/potion-completion-game/blob/main/game_img/image2.png)
 
 
 ## Snape'den kaçış ekranı
-![alt text]([image-4.png](https://github.com/sdnrelms/potion-completion-game/blob/main/game_img/image3.png))
+![snapeden_kacis](https://github.com/sdnrelms/potion-completion-game/blob/main/game_img/image3.png)
 
 
 
