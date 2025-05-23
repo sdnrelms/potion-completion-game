@@ -31,6 +31,8 @@ Snape'e yakalanıp tüm canlarını kaybederse oyunu kaybeder.
 
 Her iki durumda da ekrana, tekrar oynamak için bir pencere çıkar.
 
+![Oynamak için tıklayınız](https://sdnrelms.github.io/potion-completion-game/)
+
 
 
 
