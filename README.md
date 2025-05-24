@@ -31,8 +31,23 @@ Snape'e yakalanıp tüm canlarını kaybederse oyunu kaybeder.
 
 Her iki durumda da ekrana, tekrar oynamak için bir pencere çıkar.
 
-[Oynamak için tıklayınız](https://sdnrelms.github.io/potion-completion-game/)
 
+
+#### 🎮 Oyunu Oynama 
+
+Localinize clone'layarak veya linkten oyunu oynayabilirsiniz: 
+
+1. Bu repoyu bilgisayarınıza klonlayın:
+   ```bash
+   git clone https://github.com/sdnrelms/potion-completion-game.git
+
+2.  Proje klasörüne gidin:
+    ```bash
+    cd potion-completion-game
+    
+3.  `index.html` dosyanızı bir web tarayıcısında açın.
+
+[👉Oynamak için tıklayınız](https://sdnrelms.github.io/potion-completion-game/)
 
 
 
