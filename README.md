@@ -33,7 +33,7 @@ Her iki durumda da ekrana, tekrar oynamak için bir pencere çıkar.
 
 
 
-#### 🎮 Oyunu Oynama 
+### 🎮 Oyunu Oynama 
 
 Localinize clone'layarak veya linkten oyunu oynayabilirsiniz: 
 
@@ -47,7 +47,7 @@ Localinize clone'layarak veya linkten oyunu oynayabilirsiniz:
     
 3.  `index.html` dosyanızı bir web tarayıcısında açın.
 
-[👉Oynamak için tıklayınız](https://sdnrelms.github.io/potion-completion-game/)
+👉 [Oynamak için tıklayınız](https://sdnrelms.github.io/potion-completion-game/)
 
 
 
