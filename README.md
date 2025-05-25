@@ -66,12 +66,12 @@ Localinize clone'layarak veya linkten oyunu oynayabilirsiniz:
 ![baslangic_ekrani](https://github.com/sdnrelms/potion-completion-game/blob/main/game_img/image1.png)
 
 
-## Kazana Ekleme Ekranı
+## Kazana Malzeme Ekleme Ekranı
 
 ![kazana_ekleme](https://github.com/sdnrelms/potion-completion-game/blob/main/game_img/image2.png)
 
 
-## Snape'den kaçış ekranı
+## Snape'den Kaçış Ekranı
 ![snapeden_kacis](https://github.com/sdnrelms/potion-completion-game/blob/main/game_img/image3.png)
 
 
