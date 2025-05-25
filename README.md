@@ -32,8 +32,17 @@ Snape'e yakalanıp tüm canlarını kaybederse oyunu kaybeder.
 Her iki durumda da ekrana, tekrar oynamak için bir pencere çıkar.
 
 
+## 🎯 Kontroller
 
-### 🎮 Oyunu Oynama 
+- W --- Yukarı hareket
+- A --- Sola hareket
+- S --- Aşağı hareket
+- D --- Sağa hareket
+- Q --- McGonagall'dan iksir tarifini al
+- E --- Kazana malzeme ekle
+
+
+## 🎮 Oyunu Oynama 
 
 Localinize clone'layarak veya linkten oyunu oynayabilirsiniz: 
 
@@ -49,16 +58,7 @@ Localinize clone'layarak veya linkten oyunu oynayabilirsiniz:
 
 👉 [Oynamak için tıklayınız](https://sdnrelms.github.io/potion-completion-game/)
 
-
-
-## 🎯 Kontroller
-
-- W --- Yukarı hareket
-- A --- Sola hareket
-- S --- Aşağı hareket
-- D --- Sağa hareket
-- Q --- McGonagall'dan iksir tarifini al
-- E --- Kazana malzeme ekle
+🕹️ [Youtube video linki](https://youtu.be/vEYV0oOhw6g) 
 
 
 
